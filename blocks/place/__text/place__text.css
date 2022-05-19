@@ -1,6 +1,7 @@
 .place__text {
   margin: 0;
   padding-bottom: 27px;
+  text-align: inherit;
 }
 
 .place__text:last-child {
